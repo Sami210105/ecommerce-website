@@ -1,6 +1,11 @@
+import ProductList from "../components/ProductList";
+
 function Home() {
     return (
-        <h1>Items coming soon </h1>
+        <div>
+            <h1>Products</h1>
+            <ProductList />
+        </div>
     );
 }
 
