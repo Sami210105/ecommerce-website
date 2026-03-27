@@ -19,9 +19,6 @@ function ProductCard({ product }) {
         >
           Add to Cart
         </button>
-        <button className="mt-3 w-full bg-green-500 text-white py-1 rounded hover:bg-green-600">
-          Buy Now
-        </button>
       </div>
     </div>
   );
