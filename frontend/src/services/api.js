@@ -1,0 +1,1 @@
+const BASE_URL = "https://e-commerce-backend-qgxl.onrender.com/api";
